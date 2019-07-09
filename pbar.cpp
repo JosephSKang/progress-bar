@@ -1,6 +1,3 @@
-//
-// Created by Joseph Kang on 2019-07-09.
-//
 
 #include "pbar.h"
 #include <iostream>
