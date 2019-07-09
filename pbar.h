@@ -1,7 +1,3 @@
-//
-// Created by Joseph Kang on 2019-07-09.
-//
-// progress bar
 
 #ifndef USE_FM_PBAR_H
 #define USE_FM_PBAR_H
