@@ -1,3 +1,4 @@
+// progress bar
 
 #ifndef USE_FM_PBAR_H
 #define USE_FM_PBAR_H
@@ -13,6 +14,9 @@ class pbar {
     int pos;
     int barWidth;
     std::string  desc;
+    int count;
+
+
 
 public:
     pbar(size_t length, std::string  description);
@@ -22,3 +26,4 @@ public:
 
 
 #endif //USE_FM_PBAR_H
+
